@@ -1,3 +1,2 @@
-Project Eulers Problems. 
-1. Multiples of Sum 3 and 5 under 1000 = 20 mins
-2. Fibonnaci = 48 mins
+# Java-Leet-Coding
+Here is where I upload all the codes and practices I have done from various curated free leet coding sites.
