@@ -8,7 +8,7 @@
 
 // I was running into an issue that I was comparing i with fourMillion rather than taking into account how fast the compunding fibonnaci grows.
 
-// Then I ran into issue that I couldn't exit the loop because I was writing the loop outside rather than breaking from inside.
+// Then I ran into issue that I couldn't exit the loop because I was breaking the loop outside rather than breaking from inside.
 public class Fibonnaci {
     public static void main(String[] args) {
         int n1 = 1;
