@@ -3,3 +3,4 @@ Project Eulers Problems.
 2. Fibonnaci = 48 mins
 3. Largest Prime = 1hour and 12 mins
 4. Largest Palindrom = 3 hours and 21 mins
+5. Smallest Multiple = 50 mins

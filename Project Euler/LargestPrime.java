@@ -27,13 +27,13 @@ public class LargestPrime {
         // }
 
         for (int i = 2; i <= num; i++){
-            System.out.println("Value of "+num);
-            System.out.println("Current Number ******* " + i);
+        //     System.out.println("Value of "+num);
+        //     System.out.println("Current Number ******* " + i);
             if((num % i) == 0){
-                System.out.println("-----------" + num);
+            //     System.out.println("-----------" + num);
                 System.out.println("Divisible by " +i);
                 num /= i;
-                System.out.println("After "+ num);
+                // System.out.println("After "+ num);
             }
         }
     }
