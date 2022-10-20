@@ -4,3 +4,4 @@ Project Eulers Problems.
 3. Largest Prime = 1hour and 12 mins
 4. Largest Palindrom = 3 hours and 21 mins
 5. Smallest Multiple = 50 mins
+6. Sum Square = 17 mins and 55 secs
