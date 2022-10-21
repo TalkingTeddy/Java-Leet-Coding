@@ -1,4 +1,4 @@
-#Lesson Learnt through Project Eulers Problems 
+# Lesson Learnt through Project Eulers Problems 
 
 1. Instead of calculating for multiples and then subtracting them I could have easily used a logical OR operator.
 2. Instead of doing things in a complex manner I should find a better and easier way to do something.
