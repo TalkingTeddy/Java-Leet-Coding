@@ -16,15 +16,6 @@ public class LargestPrime {
    static int primes;
 
     public static void findPrime(Double num) {
-        
-        // for (int i = 3; i <= Math.sqrt(num); i+= 2){
-            
-        //     while ((num % i) == 0) {
-        //         // primes = i;
-        //         System.out.println(i);
-        //         num /= i;
-        //     }
-        // }
 
         for (int i = 2; i <= num; i++){
         //     System.out.println("Value of "+num);

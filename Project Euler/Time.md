@@ -5,3 +5,4 @@ Project Eulers Problems.
 4. Largest Palindrom = 3 hours and 21 mins
 5. Smallest Multiple = 50 mins
 6. Sum Square = 17 mins and 55 secs
+7. Prime Number 10001 = 3 hours and blah minutes. 
