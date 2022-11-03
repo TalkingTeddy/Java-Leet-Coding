@@ -66,6 +66,6 @@ public class Prime10001 {
     }
     
     public static void main(String[] args) {
-        createPrimes(1000);
+        createPrimes(10001);
     }
 }
