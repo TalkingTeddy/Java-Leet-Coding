@@ -1,4 +1,4 @@
-Project Eulers Problems. 
+# Time taking to solve Project Eulers Problems. 
 1. Multiples of Sum 3 and 5 under 1000 = 20 mins
 2. Fibonnaci = 48 mins
 3. Largest Prime = 1hour and 12 mins
@@ -6,5 +6,8 @@ Project Eulers Problems.
 5. Smallest Multiple = 50 mins
 6. Sum Square = 17 mins and 55 secs
 7. Prime Number 10001 = 3 hours and blah minutes. 
+<<<<<<< HEAD
 8.
 9.
+=======
+>>>>>>> f88fd69079248d666e65e5ab8a8cd79abbe8efa0
