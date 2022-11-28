@@ -6,8 +6,5 @@
 5. Smallest Multiple = 50 mins
 6. Sum Square = 17 mins and 55 secs
 7. Prime Number 10001 = 3 hours and blah minutes. 
-<<<<<<< HEAD
 8.
 9.
-=======
->>>>>>> f88fd69079248d666e65e5ab8a8cd79abbe8efa0
